@@ -14,7 +14,7 @@ const Header = () => {
 
   return (
     <nav>
-      <h1>NoteStack</h1>
+      <h1>NotesWeb</h1>
       <main className={`menu ${showMenu ? "open" : ""}`}>
         <HashLink to={"/"} onClick={linkClick}>
           {" "}

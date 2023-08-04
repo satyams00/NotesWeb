@@ -7,14 +7,14 @@ const Home = () => {
     <>
       <div className="home">
         <main>
-          <h1>Welcome to NoteStack!</h1>
+          <h1>Welcome to NotesWeb!</h1>
           <p id="quote">{para}</p>
         </main>
       </div>
       <footer>
         <div>
           <h4>&copy; 2023 Apply. All rights reserved.</h4>
-          <h4 className="divh4">Kamal Singh</h4>
+          <h4 className="divh4">Satyam Kumar Singh</h4>
         </div>
         <div>
           <h4>Terms - Privacy Policy</h4>
